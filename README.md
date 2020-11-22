@@ -1,8 +1,6 @@
 # Scatter
-## Git
-To clone a repository on Google Cloud, use `https://username:PW@github.com/repository-path`
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## GitHub
 ### Upload Images to GitHub's CDN
 
 1. First, visit any repository on GitHub and click your way through to the issues page.
@@ -17,4 +15,10 @@ To clone a repository on Google Cloud, use `https://username:PW@github.com/repos
 
 ---
 [Website](https://vinkla.dev/) | [Twitter](https://twitter.com/vinkla) | [GitHub](https://github.com/vinkla)
+
+## Git
+To clone a repository on Google Cloud, use `https://username:PW@github.com/repository-path`
+
+https://user-images.githubusercontent.com/58087379/99890552-7e0f9400-2c2e-11eb-9b36-76bc75b2b3db.jpg
+
 ## Linux
