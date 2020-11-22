@@ -1,6 +1,10 @@
 # Scatter
 
 ## GitHub
+
+![Image of 1](https://github.com/rfmeng/Scatter/blob/main/Image/GitHub/1.jpg?raw=true)
+![Image of 2](https://github.com/rfmeng/Scatter/blob/main/Image/GitHub/2.jpg?raw=true)
+
 ### Upload Images to GitHub's CDN
 
 1. First, visit any repository on GitHub and click your way through to the issues page.
