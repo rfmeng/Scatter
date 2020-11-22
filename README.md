@@ -3,6 +3,7 @@
 ## GitHub
 
 ![Image of 1](https://github.com/rfmeng/Scatter/blob/main/Image/GitHub/1.jpg?raw=true)
+<img src="https://github.com/rfmeng/Scatter/blob/main/Image/GitHub/1.jpg?raw=true" width="200">
 ![Image of 2](https://github.com/rfmeng/Scatter/blob/main/Image/GitHub/2.png?raw=true)
 
 ### Upload Images to GitHub's CDN
